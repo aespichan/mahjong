@@ -9,5 +9,6 @@ You can form one or all of these with each card:
 - a set (3,3,3)
 - astraight (1,2,3)
 
-A hand is a winning hand if it has 1 pair and 4 sets/straights
-For example: 1,1,1,2,3,2,3,4,3,3,3,4,4,4 is a winning hand
+A hand is a winning hand if it has 1 pair and 4 sets/straights.
+
+For example: 1,1,1,2,3,2,3,4,3,3,3,4,4,4 is a winning hand.
